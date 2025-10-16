@@ -59,7 +59,7 @@
     <body>
         <header>
           <div id="slex">
-            <h1>You're Invited to my Birthday Party!</h1>
+            <h1>🍕You're Invited to my Birthday Party!🍕</h1>
             <p><strong>Join us for a fun-filled celebration!</strong></p>
           </div>
         </header>
@@ -83,15 +83,12 @@
             </div>
                 <ul>
                     <li>
-                    ::marker
                     Games and Prizes
                     </li>
                     <li>
-                    ::marker
                     Magic Show
                     </li>
                     <li>
-                    ::marker
                     Face Painting
                     </li>
                 </ul>
@@ -102,27 +99,21 @@
             </div>
                 <ul>
                     <li>
-                    ::marker
                     pizza
                     </li>
                     <li>
-                    ::marker
                     Cupcakes
                     </li>
                     <li>
-                    ::marker
                     Nachos
                     </li>
                     <li>
-                    ::marker
                     Soft Drinks
                     </li>
                     <li>
-                    ::marker
                     Freddy's steak
                     </li>
                     <li>
-                    ::marker
                     Ice Cream
                     </li>
                 </ul>
